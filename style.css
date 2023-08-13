@@ -8,7 +8,7 @@ h1 {
 }
 
 h2 {
-    font-size: 30px;
+    font-size: 40px;
 }
 
 .orenger-color {
@@ -65,31 +65,30 @@ section {
     background-position: left;
 }
 
-.web-developer-01 {
+.web-developer {
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
     padding-left: 20px;
     box-shadow: 10px 10px 40px gray;
-    border-left: 10px solid #FF6347;
     border-radius: 5px;
 }
 
-.web-developer-02 {
-    width: 40%;
-    margin-left: 5%;
-    margin-right: 5%;
-    padding: 30px;
-    box-shadow: 10px 10px 40px gray;
-    border-left: 10px solid #000FFF;
-    border-radius: 5px;
+#Full-Stack-Web-Developer {
+    border-left: 7px solid orangered;
+
 }
 
-.web-developer-02 h3 {
+#Baby-Web-Developer {
+
+    border-left: 7px solid blue;
+}
+
+.web-developer h3 {
     color: orange;
 }
 
-.web-developer-01 h3 {
+.web-developer h3 {
     color: orange;
 }
 
